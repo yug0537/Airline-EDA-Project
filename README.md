@@ -36,6 +36,17 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
 - Data Preprocessing
   - Removed anomalies and Corrected inconsistent or duplicated values.
   - Ensured uniform formats for analysis.
+- Exploratory Data Analysis (EDA)
+  - Distribution of flight prices was visualized and found to be right-skewed.
+	- Correlation analysis highlighted:
+	- Strong positive correlation between Total_Stops and Duration.
+	- Moderate positive correlation between Duration and Price.
+	- More stops generally led to higher prices and longer durations.
+	- Price variation analysis was performed by:
+	- Airline
+	- Number of stops
+	- Source and destination
+	- Departure and arrival times
 
 
 
