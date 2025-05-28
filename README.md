@@ -33,6 +33,10 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
   - Hour and minute from Dep_Time and Arrival_Time.
   - Converted Duration into total minutes for consistency.
   - Encoded categorical features.
+- Data Preprocessing
+  - Removed anomalies and Corrected inconsistent or duplicated values.
+	- Ensured uniform formats for analysis.
+
 
 
 
