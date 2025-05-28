@@ -17,3 +17,6 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
 
 ## Dataset Used
 - <a href="https://github.com/yug0537/Airline-EDA-Project/commit/090bfada5e5c7e55980f0f0f336778a578b9519d">Raw Data<a/>
+
+## Process
+
