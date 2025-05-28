@@ -27,6 +27,12 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
   - Identified and handled Missing values.
   - Datatypes (converted date and time columns to datetime format).
   - Text inconsistencies (e.g., multiple formats for airline and destination names like “Jet Airways Business” vs. “Jet Airways”).
+- Feature Engineering
+  -	Extracted new features:
+	-	Day, month, and year from Date_of_Journey.
+	-	Hour and minute from Dep_Time and Arrival_Time.
+	-	Converted Duration into total minutes for consistency.
+	-	Encoded categorical features.
 
 
 
