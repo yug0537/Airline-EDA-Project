@@ -21,7 +21,7 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
 ## Process
 - Data Loading & Initial Exploration
   - The dataset was loaded using Pandas.
-	- Initial checks were done: .shape, .info(), column names, and unique values.
-	- Found 10,683 rows and 11 columns.
+  - Initial checks were done: .shape, .info(), column names, and unique values.
+  - Found 10,683 rows and 11 columns.
 
 
