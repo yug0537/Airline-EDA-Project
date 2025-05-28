@@ -35,7 +35,7 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
   - Encoded categorical features.
 - Data Preprocessing
   - Removed anomalies and Corrected inconsistent or duplicated values.
-	- Ensured uniform formats for analysis.
+  - Ensured uniform formats for analysis.
 
 
 
