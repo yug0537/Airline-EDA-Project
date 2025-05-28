@@ -23,5 +23,11 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
   - The dataset was loaded using Pandas.
   - Initial checks were done: .shape, .info(), column names, and unique values.
   - Found 10,683 rows and 11 columns.
+- Data Cleaning
+  - Identified and handled:
+	- Missing values.
+  - Datatypes (converted date and time columns to datetime format).
+	- Text inconsistencies (e.g., multiple formats for airline and destination names like “Jet Airways Business” vs. “Jet Airways”).
+
 
 
