@@ -10,3 +10,10 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
 - Analyze relationships between variables such as airline, source/destination, departure/arrival time, duration, and price.
 - Visualize patterns to uncover trends in flight pricing and customer behavior.
 
+## Tools & Libraries Used
+- Python, Pandas, NumPy for data manipulation.
+- Matplotlib, Seaborn for visualizations.
+- Jupyter Notebook for interactive analysis.
+
+## Dataset Used
+
