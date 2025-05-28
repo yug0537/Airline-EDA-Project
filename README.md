@@ -47,6 +47,24 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
 	- Number of stops
 	- Source and destination
 	- Departure and arrival times
+ 
+## Key Insights
+- Flight Duration & Stops
+   - More stops → longer duration → higher price.
+   - Direct flights tend to be cheaper and quicker.
+- Price Trends
+   - Most flight prices range between ₹8,000 and ₹10,000.
+   - There are extreme outliers — very expensive flights.
+   - Mean price was affected by outliers, so median was used for better understanding.
+
+- Airlines Comparison
+   - Jet Airways Business had the most expensive flights.
+   - TruJet offered the cheapest flights.
+   - From a customer’s perspective, Jet Airways is expensive but also highly in demand — making it a hot-selling brand from a business viewpoint.
+
+- Airline Popularity
+   - Analysis showed flight counts by airline — used to identify the most frequently chosen carriers.
+   - Companies like IndiGo, Jet Airways, and Air India dominate the booking share.
 
 
 
