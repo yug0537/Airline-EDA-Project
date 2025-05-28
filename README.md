@@ -19,4 +19,9 @@ This project involves Exploratory Data Analysis (EDA) on an airline dataset cont
 - <a href="https://github.com/yug0537/Airline-EDA-Project/commit/090bfada5e5c7e55980f0f0f336778a578b9519d">Raw Data<a/>
 
 ## Process
+- Data Loading & Initial Exploration
+  - The dataset was loaded using Pandas.
+	- Initial checks were done: .shape, .info(), column names, and unique values.
+	- Found 10,683 rows and 11 columns.
+
 
